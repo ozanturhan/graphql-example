@@ -19,3 +19,5 @@ yarn start:transaction-service
 ```
 yarn start:graphql-service
 ```
+
+GraphQL server runs at http://localhost:4000
