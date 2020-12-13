@@ -1,6 +1,6 @@
 import { gql } from 'apollo-server';
 
-const typeDefs = gql`
+const index = gql`
   type Customer {
     id: Int!
     name: String!
@@ -22,4 +22,4 @@ const typeDefs = gql`
   }
 `;
 
-export default typeDefs;
+export default index;
