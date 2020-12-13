@@ -1,6 +1,6 @@
 # GraphQL Example
 
-[GraphQL Nedir? Hangi Amaçlarla Kullanılabilir?]()
+[GraphQL Kullanım Alanları ve Örnek Bir Uygulama](https://ozanturhan.medium.com/graphql-kullanim-alanlari-ve-ornek-bir-uygulama-ff33b9b2e38)
 
 # Installation
 ```
